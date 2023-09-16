@@ -1,7 +1,7 @@
 # XOXO Clash - React.js Tic Tac Toe Game
 
-![XOXO Clash Banner](screenshot4TicTacToe.png)
 ![XOXO Clash Banner](screenshot1TicTacToe.png)
+![XOXO Clash Banner](screenshot4TicTacToe.png)
 ![XOXO Clash Banner](screenshot2icTacToe.png)
 ![XOXO Clash Banner](screenshot3TicTacToe.png)
 
