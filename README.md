@@ -1,8 +1,9 @@
 # XOXO Clash - React.js Tic Tac Toe Game
 
-![XOXO Clash Banner](screenshot1.png)
-![XOXO Clash Banner](screenshot2.png)
-![XOXO Clash Banner](screenshot3.png)
+![XOXO Clash Banner](screenshot4TicTacToe.png)
+![XOXO Clash Banner](screenshot1TicTacToe.png)
+![XOXO Clash Banner](screenshot2icTacToe.png)
+![XOXO Clash Banner](screenshot3TicTacToe.png)
 
 XOXO Clash is a simple and fun Tic Tac Toe game built using React.js. Challenge your friends or play against the computer and see who can claim victory in this classic game of strategy.
 
